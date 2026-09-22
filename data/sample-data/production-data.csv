@@ -1,0 +1,16 @@
+Date,Batch_ID,Product,Planned_Volume_L,Actual_Volume_L,Production_Hours,Downtime_Min,Quality_Status,Issue_Category,Distribution_Status
+2026-08-03,VPM-001,White Vinegar,5000,4920,7.5,25,Conforming,None,Completed
+2026-08-04,VPM-002,Brown Vinegar,4500,4480,7.2,15,Conforming,None,Completed
+2026-08-05,VPM-003,White Vinegar,5000,4750,8.0,60,Conforming,Equipment,Completed
+2026-08-06,VPM-004,Brown Vinegar,4500,4510,7.0,10,Conforming,None,Completed
+2026-08-07,VPM-005,White Vinegar,5000,4960,7.4,20,Conforming,None,Completed
+2026-08-10,VPM-006,Brown Vinegar,4500,4320,7.8,45,Review,Process,Pending
+2026-08-11,VPM-007,White Vinegar,5000,5010,7.1,10,Conforming,None,Completed
+2026-08-12,VPM-008,Brown Vinegar,4500,4430,7.5,30,Conforming,None,Completed
+2026-08-13,VPM-009,White Vinegar,5000,4870,7.6,35,Conforming,Material,Completed
+2026-08-14,VPM-010,Brown Vinegar,4500,4490,7.2,15,Conforming,None,Completed
+2026-08-17,VPM-011,White Vinegar,5000,4820,7.9,50,Review,Equipment,Pending
+2026-08-18,VPM-012,Brown Vinegar,4500,4520,7.0,5,Conforming,None,Completed
+2026-08-19,VPM-013,White Vinegar,5000,4980,7.3,15,Conforming,None,Completed
+2026-08-20,VPM-014,Brown Vinegar,4500,4380,7.7,40,Conforming,Process,Completed
+2026-08-21,VPM-015,White Vinegar,5000,5030,7.0,5,Conforming,None,Completed
